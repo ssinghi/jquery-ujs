@@ -4,7 +4,7 @@ GEM
     daemons (1.1.0)
     eventmachine (0.12.10)
     json (1.4.6)
-    rack (1.2.1)
+    rack (1.6.13)
     shotgun (0.8)
       rack (>= 1.0)
     sinatra (1.1.2)
